@@ -1,0 +1,6 @@
+node_modules
+dist
+# Local secrets: never commit your API key
+.env
+.env.local
+.env.*.local
